@@ -1,6 +1,6 @@
 ---
 _schema: default
-title:
+title: aasd f
 pageSections:
   - _component: page-sections/heroes/hero-center
     eyebrow: Eyebrow text
